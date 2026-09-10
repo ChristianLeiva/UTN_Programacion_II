@@ -1,22 +1,17 @@
-# NetBeans
-/nbproject/private/
+# --- NetBeans ---
 /build/
-/nbbuild/
 /dist/
+/nbbuild/
 /nbdist/
 /.nb-gradle/
-nbproject/private/
+/nbproject/private/
+.lck
 
-# IntelliJ (por si las moscas)
+# --- Entornos y OS ---
+.DS_Store
+Thumbs.db
 .idea/
 *.iml
-
-# Eclipse (por las dudas también)
 .classpath
 .project
 .settings/
-
-# Archivos del sistema operativo
-.DS_Store
-Thumbs.db
-*.log
