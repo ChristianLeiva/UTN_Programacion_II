@@ -1,10 +1,12 @@
-# --- NetBeans ---
-/build/
-/dist/
-/nbbuild/
-/nbdist/
-/.nb-gradle/
-/nbproject/private/
+# --- NetBeans (Globales para cualquier subcarpeta) ---
+nbproject/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+build.xml
+manifest.mf
 .lck
 
 # --- Entornos y OS ---
